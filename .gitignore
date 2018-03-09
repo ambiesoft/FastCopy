@@ -1,0 +1,9 @@
+.vs/
+Debug/
+Release/
+lib/
+obj/
+src/TLib/Obj/
+src/install/Obj/
+src/shellext/Obj/
+
